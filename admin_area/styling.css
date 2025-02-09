@@ -1,0 +1,16 @@
+.logo{
+    height:40px;
+    width:50px;
+    border-radius: 50%;
+}
+footer{
+    background-color: gray;
+    height: 70px;
+    
+}
+.forms{
+    height: auto;
+    width: 50%;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
